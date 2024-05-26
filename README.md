@@ -12,31 +12,32 @@ Transaction records from 2016 to 2018 , including date, product, quantity, price
 
 # Analysis:
 
-Total Sales Revenue
-Top Selling Products
-Customer Segmentation
-Seasonal Trends
-Profit Margin Analysis
+Total Sales Revenue,
+Top Selling Products,
+Customer Segmentation,
+Seasonal Trends,
+Profit Margin Analysis.
 
 # Visualization:
 # Tableau Dashboard:
 
-Total Revenue Trend
-Revenue per year/month
-Revenue per brand
-Revenue per store
-Revenue per categorie
-Revenue per Sales Rep
-Top Costumers
+Total Revenue ,
+Revenue per year/month,
+Revenue per brand,
+Revenue per store,
+Revenue per categorie,
+Revenue per Sales Rep,
+Top Costumers.
 
 
 # Excel Executive Dashboard:
 
-Total Revenue
-Top Selling Products
-Customer Demographics
-Seasonal Sales Trends
-Profit Margins
+Total Revenue,
+Revenue per state,
+Revenue per brand,
+Revenue per product categorie,
+Revenue per Sales Rep,
+Top 10 Costumers.
 
 # Conclusion:
 By leveraging insights from the analysis, Pedal Power aims to optimize sales strategies and improve profitability and customer satisfaction.
